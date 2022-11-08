@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <title>台東大學75週年校慶運動會</title>
+        <meta charset="utf-8">
+			<style>
+			body {
+                background-image:url("背景.jpg");
+				background-size:cover;
+                background-repeat:repeat; 
+				
+			}
+			a {                          
+				color: inherit;              
+				text-decoration: none;
+			}
+			</style>
+    </head>
+    <body>
+        <center style="margin-top: 15%;">
+            <h1 style="font-size:75px;font-family:DFKai-sb;">
+                臺東大學75週年校慶運動會
+            </h1>
+            <div style="font-size:30px;font-family:DFKai-sb;">
+                <a href="首頁.html"Target="_self"><h1>【點此進入】</h1></a>
+            </div>
+        </center>
 
+    </body>
+</html>
